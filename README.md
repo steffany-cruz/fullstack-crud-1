@@ -1,6 +1,4 @@
-![Logo](https://i.postimg.cc/qRXTZZ0z/logo-3.png)
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/maxxidata/stack#stack)
 
 - [Desafio FullStack :earth_americas: :computer: :iphone:](#desafio-fullstack-earth_americas-computer-iphone)
 - [Contexto :game_die:](#contexto-game_die)
@@ -13,9 +11,7 @@
     - [Mobile :iphone:](#mobile-iphone)
   - [Diferencial :crossed_swords:](#diferencial-crossed_swords)
   - [Requisitos não funcionais :cool:](#requisitos-não-funcionais-cool)
-  - [Opcional - Requisitos avançados 	:grey_exclamation:](#opcional---requisitos-avançados-grey_exclamation)
-- [Com o que nos preocupamos :dart:](#com-o-que-nos-preocupamos-dart)
-- [FAQ :question:](#faq-question)
+  - [Opcional - Requisitos avançados 	!](#opcional---requisitos-avançados)
 
 # Desafio FullStack :earth_americas: :computer: :iphone:
 
@@ -92,7 +88,7 @@ Vamos criar então uma aplicação que nos permita consultar, criar e editar ess
 - Um arquivo README.md com o resumo de escolhas por frameworks, bibliotecas, banco de dados e como executar seu projeto.
 
 
-## Opcional - Requisitos avançados 	:grey_exclamation:
+## Opcional - Requisitos avançados
 
 Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los de lado, a menos que seja solicitado que os cumpra!   
 
@@ -100,20 +96,4 @@ Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los d
 - Criar mecanismo de log e auditoria (quando/como/quem etc.).
 - Configuração Docker para build da imagem do projeto, docker compose para subir banco de dados com carga inicial necessaria (migrations, seeders).
 
-# Com o que nos preocupamos :dart:
-- Com certeza muito mais do que o desafio completo é avaliarmos suas competências e habilidades até o ponto em que chegou.
-- Sabemos que nem todos temos o mesmo tempo disponível, então como dissemos fique a vontade para ir até onde conseguir ou solicitar mais tempo para o processo, transparência total.
-- Sinta-se livre pra usar bibliotecas de código aberto se fizerem sentido, e lembre que avaliaremos sua capacidade de resolver problemas reais.
-- Procuramos por código funcional e limpo
-- Exemplos práticos de conhecimento em NodeJS e TypeScript e suas APIs padrões
-- Orientação a testes 
 
-# FAQ :question:
-> Como devo fazer a entrega do desafio?
-
-- Envie o link do seu repositório de código particular para quem te fez a solicitação de execução desse desafio.
-
-> Se eu tiver dúvidas?
-- Entre em contato com nosso time que esta te apoiando no processo seletivo ou pelo rh@maxxidata.com.
-
-[Voltar ao topo](#desafio-fullstack-earth_americas-computer-iphone)
